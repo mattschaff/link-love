@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "[PROJECT_ID]",
-    "staging": "[PROJECT_ID]",
-    "production": "[PROJECT_ID]"
+    "default": "link-love",
+    "staging": "link-love",
+    "production": "link-love"
   }
 }
